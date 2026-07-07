@@ -396,7 +396,11 @@
   },
   "legal": {
     "legalTitle": "Legal Notice",
-    "legalCompanyInfo": "This website is owned by Aura Tech SL (hereinafter, \"Auratech\"), with registered office in Catalonia, Spain. For any enquiries or communications, you can contact us via email at info@auratech.cat.",
+    "legalCompanyInfo": "Owner: Aura Tech, S.L. (registered name: Aura Tech, Sociedad Limitada)\nTax ID (CIF/NIF): B67702654\nRegistered office: Avinguda Luis Vilaclara, 2 — 08274 Sant Feliu Sasserra (Barcelona), Spain\nRegistry details: registered at the Mercantile Registry of Barcelona, volume 48042, folio 41, page B-570423, entry 1. European Unique Identifier (EUID): ES08005.000662958.\nEmail: info@auratech.cat\n\nIn compliance with Article 10 of Spanish Law 34/2002 of 11 July on information society services and electronic commerce (LSSI-CE), the identifying details of the owner of this website, Aura Tech, S.L. (hereinafter, \"Auratech\"), are stated above.\n\nAuratech has operational locations in Vic (Catalonia) and Avilés (Asturias); the registered office for legal purposes is the one stated above. For any enquiries or communications, you can contact us at info@auratech.cat.",
+    "legalHeadingCompany": "Company information",
+    "legalHeadingIntellectual": "Intellectual property",
+    "legalHeadingLiability": "Liability",
+    "legalHeadingLaw": "Applicable law",
     "legalIntellectual": "All content on this website, including text, images, graphics, logos, icons, source code and software, is the property of Aura Tech SL or its licensors and is protected by applicable intellectual and industrial property laws. The reproduction, distribution, public communication or transformation, in whole or in part, of the content of this website is prohibited without the express written authorisation of Aura Tech SL.",
     "legalLiability": "Auratech shall not be held liable for any damages or losses arising from the use of this website, including, without limitation, errors or omissions in the content, unavailability of the website, or the transmission of viruses or malicious software. Auratech reserves the right to modify the content of the website at any time without prior notice.",
     "legalLaw": "This legal notice is governed by Spanish law. For the resolution of any dispute that may arise in connection with the use of this website, the parties submit to the courts and tribunals of the user's domicile, in accordance with applicable regulations.",

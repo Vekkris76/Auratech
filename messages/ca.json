@@ -396,7 +396,11 @@
   },
   "legal": {
     "legalTitle": "Avís Legal",
-    "legalCompanyInfo": "Aquest lloc web és propietat d'Aura Tech SL (en endavant, \"Auratech\"), amb domicili social a Catalunya, Espanya. Per a qualsevol consulta o comunicació, podeu contactar-nos a través del correu electrònic info@auratech.cat.",
+    "legalCompanyInfo": "Titular: Aura Tech, S.L. (denominació registral: Aura Tech, Sociedad Limitada)\nCIF/NIF: B67702654\nDomicili social: Avinguda Luis Vilaclara, 2 — 08274 Sant Feliu Sasserra (Barcelona), Espanya\nDades registrals: inscrita al Registre Mercantil de Barcelona, tom 48042, foli 41, full B-570423, inscripció 1a. Identificador Únic Europeu (EUID): ES08005.000662958.\nCorreu electrònic: info@auratech.cat\n\nEn compliment de l'article 10 de la Llei 34/2002, d'11 de juliol, de serveis de la societat de la informació i de comerç electrònic (LSSI-CE), es fan constar les dades identificatives del titular d'aquest lloc web, Aura Tech, S.L. (en endavant, «Auratech»).\n\nAuratech té ubicacions operatives a Vic (Catalunya) i Avilés (Astúries); el domicili social a efectes legals és l'indicat més amunt. Per a qualsevol consulta o comunicació podeu contactar-nos a info@auratech.cat.",
+    "legalHeadingCompany": "Dades identificatives",
+    "legalHeadingIntellectual": "Propietat intel·lectual",
+    "legalHeadingLiability": "Responsabilitat",
+    "legalHeadingLaw": "Legislació aplicable",
     "legalIntellectual": "Tots els continguts d'aquest lloc web, incloent-hi textos, imatges, gràfics, logotips, icones, codi font i programari, són propietat d'Aura Tech SL o dels seus llicenciants i estan protegits per les lleis de propietat intel·lectual i industrial aplicables. Queda prohibida la reproducció, distribució, comunicació pública o transformació, total o parcial, dels continguts d'aquest lloc web sense l'autorització expressa i per escrit d'Aura Tech SL.",
     "legalLiability": "Auratech no es fa responsable dels danys o perjudicis que puguin derivar-se de l'ús d'aquest lloc web, incloent-hi, sense limitació, errors o omissions en els continguts, falta de disponibilitat del lloc web o la transmissió de virus o programari maliciós. Auratech es reserva el dret de modificar els continguts del lloc web en qualsevol moment i sense avís previ.",
     "legalLaw": "Aquest avís legal es regeix per la legislació espanyola. Per a la resolució de qualsevol controvèrsia que pugui sorgir en relació amb l'ús d'aquest lloc web, les parts se sotmeten als jutjats i tribunals del domicili de l'usuari, d'acord amb la normativa aplicable.",

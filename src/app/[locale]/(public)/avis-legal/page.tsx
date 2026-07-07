@@ -4,10 +4,10 @@ import { useTranslations } from "next-intl";
 import { SectionLabel } from "@/components/ui/section-label";
 
 const sections = [
-  { titleKey: "legalCompanyInfo", heading: "Company information" },
-  { titleKey: "legalIntellectual", heading: "Intellectual property" },
-  { titleKey: "legalLiability", heading: "Liability" },
-  { titleKey: "legalLaw", heading: "Applicable law" },
+  { headingKey: "legalHeadingCompany", bodyKey: "legalCompanyInfo" },
+  { headingKey: "legalHeadingIntellectual", bodyKey: "legalIntellectual" },
+  { headingKey: "legalHeadingLiability", bodyKey: "legalLiability" },
+  { headingKey: "legalHeadingLaw", bodyKey: "legalLaw" },
 ] as const;
 
 export default function AvisLegalPage() {
@@ -23,10 +23,10 @@ export default function AvisLegalPage() {
 
       <div className="space-y-0">
         {sections.map((section) => (
-          <div key={section.titleKey} className="border-t border-border py-8">
-            <h2 className="text-lg font-medium mb-3">{section.heading}</h2>
+          <div key={section.bodyKey} className="border-t border-border py-8">
+            <h2 className="text-lg font-medium mb-3">{t(section.headingKey)}</h2>
             <p className="text-sm text-foreground/60 whitespace-pre-line leading-relaxed">
-              {t(section.titleKey)}
+              {t(section.bodyKey)}
             </p>
           </div>
         ))}
